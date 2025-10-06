@@ -3,45 +3,69 @@
 const products = [
     {
         id: 1,
-        name: "Cadeira de Escritório Minimalista",
-        price: 599.99,
-        image: "image/Cadeira de Escritório Minimalista.avif"
+        name: "Almofada Walter Grêmio",
+        price: 32.90,
+        image: "image/Almofada Walter Grêmio.jpg"
     },
     {
         id: 2,
-        name: "Mesa de Centro Moderna",
-        price: 349.99,
-        image: "image/Mesa de Centro Moderna2.avif"
+        name: "Kit Festa do Grêmio",
+        price: 222.99,
+        image: "image/Kit Festa do Grêmio.jpg"
     },
     {
         id: 3,
-        name: "Luminária de Mesa Elegante",
-        price: 129.99,
-        image: "image/Luminária de Mesa Elegante.avif"
+        name: "Mangueira do Grêmio",
+        price: 101.90,
+        image: "image/Mangueira do Grêmio.jpg"
     },
     {
         id: 4,
-        name: "Vaso Decorativo Cerâmica",
-        price: 79.99,
-        image: "image/Vaso Decorativo Cerâmica.avif"
+        name: "Caneca de Chopp do Time do Grêmio 500ml",
+        price: 118.80,
+        image: "image/Caneca de Chopp do Time do Grêmio 500ml.jpg"
     },
     {
         id: 5,
-        name: "Conjunto de Canetas Premium",
-        price: 45.99,
-        image: "image/Conjunto de Canetas Premium.avif"
+        name: "Capinha Grêmio Time Personalizada",
+        price: 29.87,
+        image: "image/Capinha Grêmio Time Personalizada.jpg"
     },
     {
         id: 6,
-        name: "Caderno de Notas Capa Dura",
-        price: 29.99,
-        image: "image/Caderno de Notas Capa Dura.avif"
+        name: "Pote de Pipoca do Grêmio",
+        price: 29.90,
+        image: "image/Pote de Pipoca do Grêmio.jpg"
     },
     {
-        id: 6,
-        name: "Sofá vintege",
-        price: 799.99,
-        image: "image/Sofá Vintage.avif"
+        id: 7,
+        name: "Caneca do Grêmio KIDS 330ml",
+        price: 13.41,
+        image: "image/Caneca do Grêmio KIDS 330ml.jpg"
+    },
+    {
+        id: 8,
+        name: "Roupa de Cama de Solteiro Grêmio",
+        price: 160.00,
+        image: "image/Roupa de Cama de Solteiro Grêmio.jpg"
+    },
+    {
+        id: 9,
+        name: "Relógio Personalizado Grêmio",
+        price: 49.90,
+        image: "image/Relógio Personalizado Grêmio.jpg"
+    },
+    {
+        id: 10,
+        name: "Dualt Bola de Futebol Grêmio",
+        price: 99.99,
+        image: "image/Dualt Bola de Futebol Grêmio.jpg"
+    },
+    {
+        id: 11,
+        name: "Mouse Pad Escudo do Grêmio",
+        price: 19.90,
+        image: "image/Mouse Pad Escudo do Grêmio.jpg"
     }
 ];
 

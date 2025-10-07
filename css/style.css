@@ -34,6 +34,66 @@
         tr:nth-child(even){
             background-color: #2291d6;
         }
+        #cadastro.products {
+         max-width: 400px;
+        margin: 40px auto;
+        padding: 20px 25px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        #cadastro .section-title {
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            color: #333;
+            text-align: center;
+        }
+        #cadastro p {
+            text-align: center;
+            margin-bottom: 25px;
+            color: #555;
+        }
+        #cadastro form {
+            display: flex;
+            flex-direction: column;
+        }
+        #cadastro label {
+            margin-bottom: 6px;
+            font-weight: 600;
+            color: #444;
+        }
+        #cadastro input[type="text"],
+        #cadastro input[type="email"],
+        #cadastro input[type="tel"] {
+            padding: 10px 12px;
+            margin-bottom: 18px;
+            border: 1.8px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: border-color 0.3s ease;
+        }
+        #cadastro input[type="text"]:focus,
+        #cadastro input[type="email"]:focus,
+        #cadastro input[type="tel"]:focus {
+            outline: none;
+            border-color: #007BFF;
+            box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+        }
+        #cadastro button {
+            padding: 12px;
+            background-color: #007BFF;
+            color: white;
+            font-weight: 600;
+            font-size: 1.1rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.25s ease;
+        }
+        #cadastro button:hover {
+            background-color: #0056b3;
+        }
 
         .header-container {
             display: flex;

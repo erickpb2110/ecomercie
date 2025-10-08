@@ -65,7 +65,9 @@
         }
         #cadastro input[type="text"],
         #cadastro input[type="email"],
-        #cadastro input[type="tel"] {
+        #cadastro input[type="tel"],
+        #cadastro input[type="cpf"] 
+        {
             padding: 10px 12px;
             margin-bottom: 18px;
             border: 1.8px solid #ccc;
@@ -75,7 +77,8 @@
         }
         #cadastro input[type="text"]:focus,
         #cadastro input[type="email"]:focus,
-        #cadastro input[type="tel"]:focus {
+        #cadastro input[type="tel"]:focus,
+        #cadastro input[type="cpf"]:focus {
             outline: none;
             border-color: #007BFF;
             box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
